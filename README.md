@@ -4,8 +4,7 @@ A Machine Learning–powered web application for real-time sentiment classificat
 
 ## Live Application
 
-(Add after deployment)
-https://your-app-name.streamlit.app
+**(https://flipkart-review-sentiment-analysis-using-machine-learning-app.streamlit.app/)**
 
 ## Project Summary
 
@@ -23,7 +22,7 @@ Production-ready deployment
 
 ## Objectives
 
-Build a robust NLP-based sentiment classifier
+Build a robust ml-based sentiment classifier
 
 Convert raw text into machine-understandable features
 
